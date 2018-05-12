@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7248'
     url: http://www.gutenberg.org/2009/agents/7248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17246#The-Quest-of-the-Simple-Life
 gutenberg_issued: '2005-12-06'
 gutenberg_type: Text
 identifiers:
